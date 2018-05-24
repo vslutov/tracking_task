@@ -1,9 +1,9 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-# Example of using [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd) to tracking algorithm.
+# Task: implement tracking algorithm with [SSD](https://github.com/weiliu89/caffe/tree/ssd).
 
 ## Quickstart
 
-Download [latest release](#) and run [tracking.ipynb](tracking.ipynb).
+Download [latest release](https://github.com/vslutov/tracking_task/releases/latest) and run [tracking.ipynb](tracking.ipynb).
 
 ## Requirements
 
